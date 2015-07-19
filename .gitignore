@@ -1,0 +1,4 @@
+# Podemos especificar archivos individuales
+npm-debug.log
+
+# O usar comodines
